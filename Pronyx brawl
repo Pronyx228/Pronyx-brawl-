@@ -1,1 +1,10 @@
-
+echo "# Pronyx-brawl-" >> README.md 
+git init 
+git add README.md 
+git commit -m "первый коммит" 
+git branch -M main 
+git remote add origin https://github.com/Pronyx228/Pronyx-brawl-.git
+ git push -u origin main
+https://github.com/Pronyx228/Pronyx-brawl-.gitgit удаленный добавить источник https://github.com/Pronyx228/Pronyx-brawl-.git
+ git branch -M main 
+git push -u origin main
